@@ -1,6 +1,6 @@
 Code output:
 
-In-order data set.
+    In-order data set.
         0
         1
         2
@@ -55,7 +55,7 @@ In-order data set.
 
 
 
-Reverse-order data set.
+    Reverse-order data set.
         99
         98
         97
@@ -110,7 +110,7 @@ Reverse-order data set.
 
 
 
-Random order data set.
+    Random order data set.
         41
         67
         34
